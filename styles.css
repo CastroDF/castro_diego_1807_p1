@@ -136,3 +136,33 @@ body {
   background: #4338ca;
   transform: translateX(2px);
 }
+
+/* Responsive: pantallas pequeñas */
+@media (max-width: 600px) {
+  .page {
+    padding: 16px;
+  }
+
+  .card {
+    flex-direction: column;
+    max-width: 420px;
+  }
+
+  .card__media {
+    min-height: 200px;
+    max-height: 220px;
+  }
+
+  .card__body {
+    padding: 24px;
+    gap: 12px;
+  }
+
+  .card__title {
+    font-size: 22px;
+  }
+
+  .card__excerpt {
+    font-size: 14px;
+  }
+}
