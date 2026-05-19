@@ -1,6 +1,6 @@
 # castro_diego_1807_p1
 
-Parcial 1 — Laboratorio I.
+Parcial 1 — Desarrollo y Arquitecturas Web.
 
 Tarjeta de noticia destacada (news card) desarrollada únicamente con HTML y CSS.
 La página está centrada en pantalla y la tarjeta es responsive (mobile y desktop)
